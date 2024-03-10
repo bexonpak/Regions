@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/twotone_search_24"
+        android:title="@string/search_title"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="collapseActionView|ifRoom" />
+
+    <item
+        android:id="@+id/how_to_do"
+        android:title="@string/howToDo"
+        app:showAsAction="withText" />
+
+    <item
+        android:id="@+id/license"
+        android:title="@string/license"
+        app:showAsAction="withText" />
+
+</menu>

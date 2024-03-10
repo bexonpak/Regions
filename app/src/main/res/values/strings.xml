@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Regions</string>
+    <string name="permissionRequired">Permission required</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="howToDo">How to do</string>
+    <string name="permissionRequiredDescription">1. Install <a href="https://developer.android.com/tools/releases/platform-tools">adb</a> on PC/Mac.\n\n2. Run <b>adb shell pm grant io.github.bexonpak.regions android.permission.CHANGE_CONFIGURATION</b> in Terminal to grant permission.\n\nCheck out the <a href="https://bexonpak.github.io/note/android-custom-ui-lacks-language-in-settings-1762da.html">Blog</a> for more info.</string>
+    <string name="favorite">Favorite</string>
+
+    <string name="title_activity_license">LicenseActivity</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">Input locale name...</string>
+    <string name="about">About</string>
+    <string name="all">All</string>
+    <string name="license">Open Source License</string>
+    <string name="aosp_license">Copyright (C) 2008 The Android Open Source Project\nLicensed under the Apache License, Version 2.0 (the \"License\");\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License at\n     http://www.apache.org/licenses/LICENSE-2.0\nUnless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \"AS IS\" BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License.</string>
+    <string name="openmoji_license">OpenMoji is an open-source project of 50+ students and 2 professors of the HfG Schwäbisch Gmünd (Design University) and external contributers.</string>
+    <string name="jetpack_license">Copyright (C) 2020 The Android Open Source Project\n\nLicensed under the Apache License, Version 2.0 (the \"License\");\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License at\n\n   http://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \"AS IS\" BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License.</string>
+    <string name="google_material_design_license">google_material_design</string>
+    <string name="kotlin_license">/*\n * Copyright 2010-2020 JetBrains s.r.o. and Kotlin Programming Language contributors.\n *\n * Licensed under the Apache License, Version 2.0 (the \"License\");\n * you may not use this file except in compliance with the License.\n * You may obtain a copy of the License at\n *\n * http://www.apache.org/licenses/LICENSE-2.0\n *\n * Unless required by applicable law or agreed to in writing, software\n * distributed under the License is distributed on an \"AS IS\" BASIS,\n * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n * See the License for the specific language governing permissions and\n * limitations under the License.\n */</string>
+    <string name="kotlin_coroutines_license">Copyright 2000-2020 JetBrains s.r.o. and Kotlin Programming Language contributors.\n\nLicensed under the Apache License, Version 2.0 (the \"License\");\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License at\n\n   http://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \"AS IS\" BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License.</string>
+</resources>
